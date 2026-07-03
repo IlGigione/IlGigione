@@ -1,16 +1,21 @@
-## Hi there 👋
+```ansi
+> whoami
+luigi · Senior Software Engineer 🇮🇹 · autodidatta cronico incurabile
 
-<!--
-**IlGigione/IlGigione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> cat ~/.about
+Costruisco piattaforme web & app native che scalano.
+Non mi basta usare le cose: devo sapere COME funzionano dentro. 🔬
+Se un sistema mi resiste, io perdo il sonno. Poi lo capisco. Poi vinco.
 
-Here are some ideas to get you started:
+> stack --list
+TypeScript · Node · React Native/Expo · Nuxt · Postgres · Drizzle · Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> philosophy
+"Building > tutorials. Rompere le cose è imparare le cose." 🔨
+
+> uptime
+☕ x∞ · curiosità patologica: ON · impostor syndrome: gestibile
+
+> git blame
+se leggi "it works on my machine" → probabilmente sono io 🤷
+```
